@@ -1,0 +1,17 @@
+﻿'rock paper.exe' (Win32): Loaded 'C:\Users\Asela gayan\Desktop\rock paper sissor\rock paper\x64\Debug\rock paper.exe'. Symbols loaded.
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x23e0 has exited with code 0 (0x0).
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x1c8c has exited with code 0 (0x0).
+The thread 0x3b08 has exited with code 0 (0x0).
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'rock paper.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x2a98 has exited with code 0 (0x0).
+The program '[11544] rock paper.exe' has exited with code 0 (0x0).
