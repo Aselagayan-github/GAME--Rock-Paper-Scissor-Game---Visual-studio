@@ -12,7 +12,7 @@ Compile and run this code in a C++ development environment to play the game.
 
 2)	Indicate the number of levels at which the game can be played and the number of levels to be entered.
 *At this stage players can choose a level of their choice from the levels given to them. This stage determines the number of times you can play based on the level given. A player can improve his ability through this level.
-<img src="rock paper/output photo/Screenshot 2022-05-22 124650.png" width="950"/>
+<img src="rock paper/output photo/Screenshot 2022-05-22 124650.png" width="650"/>
 
 3)   OUTPUT THIS CODE.
 <img src="rock paper/output photo/Screenshot 2022-05-22 133036.png" width="650"/>
